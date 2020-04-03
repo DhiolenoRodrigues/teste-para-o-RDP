@@ -1,2 +1,2 @@
-# teste para o RDP
- 1º repositório versionado
+# teste para o Relatos da pista
+ 1º repositório versionado para testar ferramentas para o projeto
